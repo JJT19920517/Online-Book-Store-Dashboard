@@ -106,12 +106,11 @@ The dashboard enables users to identify patterns such as:
 
 ## 7. Project Workflow
 
--Raw Dataset
--Data Quality Analysis
--Excel Preprocessing
--Data Transformation
--Power BI Data Modeling
--DAX Measures
--Interactive Dashboard
-
-Analysis & Insights
+- Raw Dataset
+- Data Quality Analysis
+- Excel Preprocessing
+- Data Transformation
+- Power BI Data Modeling
+- DAX Measures
+- Interactive Dashboard
+- Analysis & Insights
