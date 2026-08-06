@@ -5,3 +5,4 @@
 ![images](images/ratinganalysis.png)
 ![images](images/genreanalysis.png)
 ![images](images/languageanalysis.png)
+![images](images/formatanalysis.png)
