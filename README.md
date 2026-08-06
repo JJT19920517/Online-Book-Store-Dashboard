@@ -21,18 +21,17 @@ Tools
  Project workflow
  
    Raw Dataset
-   
-     ↓
+     
 Excel Data Cleaning
-     ↓
+     
 Power Query
-     ↓
+     
 Data Transformation
-     ↓
+     
 Power BI Data Model
-     ↓
+     
 DAX Measures
-     ↓
+     
 Interactive Dashboard
-     ↓
+     
 Business Insights
