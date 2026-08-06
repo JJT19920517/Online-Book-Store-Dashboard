@@ -1,1 +1,1 @@
-[images](images/Screenshot 2026-08-05 224152.png)
+[images](images/Screenshot2026-08-05224152.png)
