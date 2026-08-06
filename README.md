@@ -61,8 +61,7 @@ The report includes analysis of:
 - Rating Analysis
 - Language Analysis
 - Book Format Analysis
-- Series and Volume Analysis
-- Key Book and Rating KPIs
+- Key Insights
 
 Interactive slicers, filters, buttons, and drill-down/interactions were implemented to allow users to explore the data dynamically.
 
@@ -104,7 +103,6 @@ The dashboard enables users to identify patterns such as:
 - Microsoft Excel – Data preprocessing and data quality analysis
 - Power BI – Data modeling, DAX calculations, visualization, and dashboard development
 - Power Query – Data transformation and preparation
-- GitHub – Project version control and portfolio presentation
 
 ## 7. Project Workflow
 
