@@ -11,6 +11,7 @@
 ##Project Overview
 
 This project presents an interactive Online Book Store Analytics Dashboard developed using Excel and Power BI. The dataset was systematically cleaned and transformed in Excel, including data-quality checks, handling missing values, standardizing text and formats, and preparing key analytical fields. Power BI was then used to build an interactive dashboard covering overall book performance, author analysis, genre trends, ratings, languages, book formats, series, and key KPIs. Interactive filters and drill-down features enable users to explore individual authors, genres, and books and identify meaningful patterns in the dataset. The project demonstrates an end-to-end data cleaning, analysis, visualization, and business-insight workflow using Excel and Power BI.
+
 Tools
 1. Excel
 2. Power BI
