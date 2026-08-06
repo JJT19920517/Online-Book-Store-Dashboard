@@ -2,3 +2,4 @@
 ![images](images/onlinebookstoreanalytics.png)
 ![images](images/Screenshot1.png)
 ![images](images/Authoranalysis.png)
+![images](images/ratinganalysis.png)
