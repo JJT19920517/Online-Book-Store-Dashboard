@@ -1,6 +1,6 @@
 # Dash Board Images
 ![images](images/onlinebookstoreanalytics.png)
-![images](images/Screenshot1.png)
+![images](images/Screenshot2.png)
 ![images](images/Authoranalysis.png)
 ![images](images/ratinganalysis.png)
 ![images](images/genreanalysis.png)
