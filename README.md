@@ -6,3 +6,4 @@
 ![images](images/genreanalysis.png)
 ![images](images/languageanalysis.png)
 ![images](images/formatanalysis.png)
+![images](images/insight.png)
